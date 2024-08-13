@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--    <resources>-->
+<!--        &lt;!&ndash; Define a custom style for menu items &ndash;&gt;-->
+<!--        <style name="CustomMenuItemStyle">-->
+<!--            <item name="android:textColor">@color/your_menu_item_color</item>-->
+<!--        </style>-->
+
+<!--        &lt;!&ndash; Use this style for the Toolbar theme &ndash;&gt;-->
+<!--        <style name="ToolbarTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+<!--            <item name="actionBarStyle">@style/CustomActionBar</item>-->
+<!--        </style>-->
+
+<!--        <style name="CustomActionBar" parent="Widget.AppCompat.ActionBar.Solid">-->
+<!--            <item name="android:background">@color/toolbar_background_color</item>-->
+<!--            <item name="android:textColor">@color/toolbar_title_color</item>-->
+<!--        </style>-->
+<!--    </resources>-->
+
+<resources>
+<!-- Define a custom style for menu items -->
+<style name="CustomMenuItemStyle">
+    <item name="android:textColor">@color/menu_item_color</item>
+</style>
+
+<!-- Use this style for the Toolbar theme -->
+<style name="ToolbarTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="actionBarStyle">@style/CustomActionBar</item>
+</style>
+
+<style name="CustomActionBar" parent="Widget.AppCompat.ActionBar.Solid">
+    <item name="android:background">@color/toolbar_background_color</item>
+    <item name="android:textColor">@color/toolbar_title_color</item>
+</style>
+</resources>

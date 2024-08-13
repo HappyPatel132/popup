@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="menu_item_color">#FF5722</color> <!-- Replace with your desired color -->
+    <!-- Replace with your desired color -->
+
+    <!-- Define other colors -->
+    <color name="toolbar_background_color">#3F51B5</color> <!-- Replace with your desired color -->
+    <color name="toolbar_title_color">#FFFFFF</color>
+    <!-- Define color for toolbar background and title -->
+
+</resources>
+
+
+
+<!-- Define color for menu items -->
